@@ -2,9 +2,10 @@
 
 Hangman is a word guessing game that runs in the browser. Connects to an API to get random words that are each 6 to 12 letters long 
 and let the user guess the word. Built with Javascript and Canvas.
-
+```
 git clone https://github.com/shirintag/Hangman && cd Hangman
-open Hangman.html file and the game.
+```
+Open Hangman.html file and play the game.
 
 ###UI Elements
 - A button that starts the game
